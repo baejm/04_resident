@@ -1,13 +1,13 @@
 # 04_resident
 bbosong-portfolio
 안녕하세요.
-곧 3년차가 되는 Web front-end developer 윤소희입니다.
+곧 3년차가 되는 Web front-end developer 배정민입니다.
 아직 되지 않은.. TODO LIST
 ※ 작업이 되는 대로 하나하나 지울 것입니다.
 - 이력서 html로 만들어서 pdf download
 - Keep-alive 고려
-사용한 플러그인
-- sass-loader
+> 사용한 플러그인
+1 sass-loader
 - node-sass
 - VueMomentJS
 - vue-waypoint
