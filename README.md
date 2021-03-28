@@ -1,24 +1,18 @@
 # 04_resident
-bbosong-portfolio
-안녕하세요.
-곧 3년차가 되는 Web front-end developer 배정민입니다.
-아직 되지 않은.. TODO LIST
-※ 작업이 되는 대로 하나하나 지울 것입니다.
-- 이력서 html로 만들어서 pdf download
-- Keep-alive 고려
+
+회사에서 처음으로 독학한 vue를 이용하여 만든 웹 주차관리 프로그램입니다. <br>
+
+WebSocket(웹소켓)을 이용하여 실시간으로 서버로 부터 정보를 주고 받아야 합니다. <br>
+
+※ 현재 서버는 이용하지 못해 임시로 ui만 살펴볼수 있습니다. <br>
+   -id: admin001
+   -pw: 1234
+   
+
+
+
 > 사용한 플러그인
-1 sass-loader
 - node-sass
-- VueMomentJS
-- vue-waypoint
-- vue-typed-js
-- vue2-animate
-- vee-validate
-- intersection-observer (IE11지원을 위해..)
-- vue-daum-map
 - prettier
-- file-saver
-- es6-promise
-- axios
-portfolio site (demo?)
-http://bbosongbbosong.com/#/
+- socket.io
+
