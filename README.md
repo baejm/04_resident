@@ -16,3 +16,4 @@ WebSocket(웹소켓)을 이용하여 실시간으로 서버로 부터 정보를 
 - prettier
 - socket.io
 
+https://baejm.github.io/04_resident/
