@@ -1,4 +1,4 @@
-## 입주사 관리 프로그램
+# 입주사 관리 프로그램
 
 
 https://baejm.github.io/04_resident/
@@ -16,7 +16,7 @@ WebSocket(웹소켓)을 이용하여 실시간으로 서버로 부터 정보를 
 
 
 
-# 동작 설명
+## 동작 설명
 ![입주사 관리프로그램](https://user-images.githubusercontent.com/35725338/113373386-b033be00-93a5-11eb-8d0b-f10935d5b3ce.gif)
 
 
