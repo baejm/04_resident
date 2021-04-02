@@ -1,4 +1,4 @@
-resident_
+resident parking system
 
 회사에서 처음으로 독학한 vue를 이용하여 만든 웹 주차관리 프로그램입니다. <br>
 
